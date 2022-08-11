@@ -1,6 +1,6 @@
 # EndlessRunnerProject
 
-Making an endless runner in unity. 
+Making an endless runner game in unity. 
 
 Followed the tutorial from : https://youtu.be/5M7vX_z6B9I to get started with unity.
 
